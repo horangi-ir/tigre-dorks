@@ -1,4 +1,4 @@
-# osint_log_search
+# Tigre Dorks: OSINT Log Search
 Originally, the script was developed to search for logs leaked by search
 engines such as Bing, DuckDuckGo and Dogpile using Google Dorks. However,
 Google Dork also offers searches to find other server problems such as:
